@@ -18,8 +18,8 @@ OOP graphics game, spotlighting objects for user interations, using custom art a
 
 
 ### Calculator
-OOP graphics based calculator.
-![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/calc1.png?raw=true)
+OOP graphics based calculator.  
+![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/calc1.png?raw=true)  
 [SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/Calculator.zip)
 
 
