@@ -19,11 +19,11 @@ OOP graphics game, spotlighting objects for user interations, using custom art a
 
 ### Calculator
 OOP graphics based calculator.
-![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/cg1.png?raw=true)
+![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/calc1.png?raw=true)
 [SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/Calculator.zip)
 
 
 ### New Word Generator
 C++ code to generate made up words with descriptions.
-![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/cg1.png?raw=true)
-[SourceCode]()
+![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/nwg1.png?raw=true)
+[SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/main%20(2).cpp)
