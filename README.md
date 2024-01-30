@@ -29,5 +29,17 @@ OOP graphics based calculator.
 
 ### New Word Generator
 C++ code to generate made up words with descriptions.
-![Calculator](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/nwg1.png?raw=true)
+![Undermortless](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/nwg1.png?raw=true)
 [SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/main%20(2).cpp)
+
+
+### Timeline of Computers
+OOP graphics based timeline listing the events in computer history. Hover mouse over events to get more info.
+![Timeline](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/tline1.png?raw=true)
+[SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/Timeline.zip)
+
+
+### Timeline of Computers
+OOP graphics based timeline listing the events in computer history. Hover mouse over events to get more info.
+![Timeline](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/eas1.png?raw=true)
+[SourceCode](https://github.com/LegendWeaver/programmingportfolio/blob/main/src/etchASketch.zip)
