@@ -9,5 +9,8 @@
 
 ## Individual Projects
 
-## CupidGame
+### CupidGame
 OOP graphics game, spotlighting objects for user interations, using custom art and stock sound effects.
+![CupidGame Menu]()
+![CupidGame Gameplay]()
+![CupidGame GameOver]()
