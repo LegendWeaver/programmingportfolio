@@ -11,6 +11,6 @@
 
 ### CupidGame
 OOP graphics game, spotlighting objects for user interations, using custom art and stock sound effects.
-![CupidGame Menu]()
+![CupidGame Menu](https://github.com/LegendWeaver/programmingportfolio/blob/main/images/cg1.png?raw=true)
 ![CupidGame Gameplay]()
 ![CupidGame GameOver]()
